@@ -27,16 +27,22 @@ Also by executing :
 
 it will display the help/usage options.
 
-usage: cyta_send_sms.py [-h] -d MOBILENUMBER -m MESSAGE -u USERNAME -p PASSKEY
-                        [--version]
+``usage: cyta_send_sms.py [-h] -d MOBILENUMBER -m MESSAGE -u USERNAME -p PASSKEY  [--version]``
 
-optional arguments:
-  -h, --help       show this help message and exit
-  -d MOBILENUMBER  destination mobile number
-  -m MESSAGE       message
-  -u USERNAME      username for the cyta's web sms api
-  -p PASSKEY       secretkey for the cyta's web sms api
-  --version        show program's version number and exit
+``arguments:``
+
+``-h, --help       show this help message and exit``
+
+``-d MOBILENUMBER  destination mobile number``
+
+``-m MESSAGE       message``
+
+``-u USERNAME      username for the cyta's web sms api``
+
+``-p PASSKEY       secretkey for the cyta's web sms api``
+
+``--version        show program's version number and exit``
+
 
 
 License
