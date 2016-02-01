@@ -5,7 +5,7 @@ SMS messages using the CYTA Web sms API
 Introduction
 ============
 
-A command line util, easily scriptable that will provide the *simple* functionality to sent very easily sms messages through CYTA.
+A command line util, easily scriptable that will provide the *simple* functionality to send very easily sms messages through CYTA.
 
 
 Requirements
